@@ -19,13 +19,13 @@
 
 - 📫 How to reach me **work.kaifshakeel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Udc7tK_D8hL4igsn_C4BG5jAORKhxpA1/view?usp=drive_link](https://drive.google.com/file/d/1Udc7tK_D8hL4igsn_C4BG5jAORKhxpA1/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1e9pZoOBdy3l63pLTZkRzvcfgyhan3aa-?usp=drive_link](https://drive.google.com/drive/folders/1e9pZoOBdy3l63pLTZkRzvcfgyhan3aa-?usp=drive_link)
 
 - ⚡ Fun fact **I think i am Geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaif-shakeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaif-shakeel/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaif-shakeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaif-shakeel/" height="30" width="40" /></a>
 <a href="https://instagram.com/__kaifshakeel__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kaifshakeel__" height="30" width="40" /></a>
 </p>
 
